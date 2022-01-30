@@ -48,6 +48,6 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 ---
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 
 Updated 30/01/2022
