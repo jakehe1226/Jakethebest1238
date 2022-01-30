@@ -17,10 +17,6 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakethebest1238&theme=onestar" alt="jakethebest1238" /></a> </p>
-
----
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -42,6 +38,10 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakethebest1238&&theme=tokyonight&show_icons=true&locale=en" alt="jakethebest1238" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakethebest1238&theme=tokyonight" alt="jakethebest1238" /></p>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakethebest1238&theme=onestar" alt="jakethebest1238" /></a> </p>
 
 ---
 
