@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/jakethebest1238" target="blank"><img src="https://img.shields.io/twitter/follow/jakethebest1238?logo=twitter&style=for-the-badge" alt="jakethebest1238" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakethebest1238" alt="jakethebest1238" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakethebest1238&theme=nord" alt="jakethebest1238" /></a> </p>
 
 You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 - 🤖 Currently working on Discord bots - Music Bot, Moderation Bot, Economy Bot
