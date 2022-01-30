@@ -28,9 +28,11 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakethebest1238&layout=compact)](https://github.com/jakethebest1238/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakethebest1238&show_icons=true&locale=en&layout=compact" alt="jakethebest1238" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakethebest1238&theme=tokyonight)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakethebest1238&" alt="jakethebest1238" /></p>
 
 ---
 
