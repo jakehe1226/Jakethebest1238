@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakethebest1238&label=Profile%20views&color=0e75b6&style=flat" alt="jakethebest1238" /> </p>
 
-<p align="center"> <a href="https://twitter.com/jakethebest1238" target="blank"><img src="https://img.shields.io/twitter/follow/jakethebest1238?logo=twitter&style=for-the-badge" alt="jakethebest1238" /></a> </p>
-
 You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 - 🤖 Currently working on Discord bots - Music Bot, Moderation Bot, Economy Bot
 - 🙌 Learning anything I can get my hands on!
