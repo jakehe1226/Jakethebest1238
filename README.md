@@ -47,4 +47,8 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 ---
 
+<details>
+  <!--START_SECTION:activity-->
+
+
 Updated 30/01/2022
