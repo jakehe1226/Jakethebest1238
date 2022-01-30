@@ -30,7 +30,7 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakethebest1238)](https://github.com/jakethebest1238/jakethebest1238)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakethebest1238&layout=compact)](https://github.com/jakethebest1238/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakethebest1238&theme=radical)
 
