@@ -32,7 +32,7 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakethebest1238&theme=tokyonight&show_icons=true&locale=en" alt="jakethebest1238" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jakethebest1238&theme=tokyonight" alt="jakethebest1238" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakethebest1238&theme=tokyonight" alt="jakethebest1238" /></p>
 
 ---
 
