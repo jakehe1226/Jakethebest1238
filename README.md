@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakethebest1238&label=Profile%20views&color=0e75b6&style=flat" alt="jakethebest1238" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakethebest1238" alt="jakethebest1238" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?jakethebest1238=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 - 🤖 Currently working on Discord bots - Music Bot, Moderation Bot, Economy Bot
