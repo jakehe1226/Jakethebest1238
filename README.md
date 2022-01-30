@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jake
+<h1 align="center">👋 Hi, I’m Jake</h1>
 
 Inspirational developer with a particular focus on Discord Bots.
 You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
