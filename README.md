@@ -11,7 +11,6 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 - ✔ [Discord Server](https://dsc.gg/jakesnation)
 
 <br />
-<br />
 
 ---
 
