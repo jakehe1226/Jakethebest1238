@@ -34,4 +34,4 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 ---
 
-[![Spotify](https://jakethebest1238.vercel.app/api/spotify)](https://open.spotify.com/user/jakethebest1238)
+[![Spotify](https://jakethebest1238.vercel.app/api/spotify)](https://open.spotify.com/user/msiduio7qvkply6unv462lti6)
