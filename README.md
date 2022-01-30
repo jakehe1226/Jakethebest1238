@@ -2,7 +2,7 @@
 
 <h3 align="center">Inspirational developer with a particular focus on Discord Bots.</h3>
 
-You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
+<h3 align="center">You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).</h3>
 
 - 🤖 Currently working on Discord bots - Music Bot, Moderation Bot, Economy Bot
 - 🙌 Learning anything I can get my hands on!
