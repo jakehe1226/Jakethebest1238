@@ -2,9 +2,7 @@
 
 <h3 align="center">Inspirational developer with a particular focus on Discord Bots.</h3>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
-
-[![trophy](https://github-profile-trophy.vercel.app/?jakethebest1238=ryo-ma&theme=onedark)](https://github.com/jakethebest1238)
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=jakethebest1238&title=Stars,Followers" alt="jakethebest1238" /></a> </p>
 
 You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 - 🤖 Currently working on Discord bots - Music Bot, Moderation Bot, Economy Bot
