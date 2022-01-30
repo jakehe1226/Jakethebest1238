@@ -5,7 +5,6 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 - 🤖 Currently working on Discord bots - Music Bot, Moderation Bot, Economy Bot
 - 🙌 Learning anything I can get my hands on!
-- ❕ Javascript, HTML and CSS at the moment.
 - 👯 Always looking to collaborate
 - 💬 You can always ask me a question.
 - 📫 [Personal Website](http://jakehe.unaux.com/)
