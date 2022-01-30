@@ -1,4 +1,4 @@
-![Jake He Profile](https://raw.githubusercontent.com/Jakethebest1238/Jakethebest1238/main/Jake%20He%20logo%20572021.png =250x250)
+![Jake He Profile](https://raw.githubusercontent.com/Jakethebest1238/Jakethebest1238/main/Jake%20He%20logo%20572021.png=250x250)
 
 
 
