@@ -9,6 +9,7 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 - 💬 You can always ask me a question.
 - 📫 [Personal Website](http://jakehe.unaux.com/)
 - ✔ [Discord Server](https://dsc.gg/jakesnation)
+- 👌 Use darkmode in Github
 
 ---
 
