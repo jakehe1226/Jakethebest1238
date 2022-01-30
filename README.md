@@ -2,6 +2,8 @@
 
 <h3 align="center">Inspirational developer with a particular focus on Discord Bots.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakethebest1238&label=Profile%20views&color=0e75b6&style=flat" alt="jakethebest1238" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakethebest1238" alt="jakethebest1238" /></a> </p>
 
 You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
