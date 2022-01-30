@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Jakethebest1238
+# 👋 Hi, I’m Jake
 
-I love gaming and coding.
+Inspirational developer with a particular focus on Discord Bots.
+You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 
-My most favourite thing is when my Discord Bot coding actaully works. At least my few hours of staring at the PC was worth it...
-
-I barely touch grass...  
-
-Live your life with Purpose!
+- 🤖 Currently working on Discord bots - Music Bot, Moderation Bot, Economy Bot
+- 🙌 Learning anything I can get my hands on!
+- ❕ Javascript, HTML and CSS at the moment.
+- 👯 Always looking to collaborate
+- 💬 You can always ask me a question.
+- 📫 [Personal Website](http://jakehe.unaux.com/)
+- ✔ [Discord Server](https://dsc.gg/jakesnation)
