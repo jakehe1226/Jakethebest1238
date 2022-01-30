@@ -32,4 +32,6 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakethebest1238&theme=tokyonight)
 
+---
 
+[![Spotify](https://jakethebest1238.vercel.app/api/spotify)](https://open.spotify.com/user/jakethebest1238)
