@@ -1,7 +1,3 @@
-![](https://raw.githubusercontent.com/Jakethebest1238/Jakethebest1238/main/Jake%20He%20logo%20572021.png)
-
-
-
 - 👋 Hi, I’m @Jakethebest1238
 
 I love gaming and coding.
