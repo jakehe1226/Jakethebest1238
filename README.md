@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I’m Jake</h1>
+<h2 align="center">
+    Hello there! I am <strong>Jake He</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
 
 <h3 align="center">Inspirational developer with a particular focus on Discord Bots.</h3>
 
