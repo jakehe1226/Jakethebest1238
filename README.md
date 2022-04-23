@@ -11,7 +11,7 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 - 🙌 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 You can always ask me a question.
-- 📫 [Personal Website](http://jakehe.unaux.com/)
+- 📫 [Personal Website](https://jakehe.is-a.dev)
 - ✔ [Discord Server](https://dsc.gg/jakesnation)
 - 👌 Use dark mode in Github
 - 👍 Live your life with Purpose
