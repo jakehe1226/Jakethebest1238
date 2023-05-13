@@ -2,7 +2,7 @@
    👋 Hello there! I am <strong>Jake He</strong>.
 </h2>
 
-<h3 align="center">Inspirational developer with a particular focus on Discord Bots.</h3>
+<h3 align="center">Inspirational developer with a particular focus on Personal Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakethebest1238&label=Profile%20views&color=0e75b6&style=flat" alt="jakethebest1238" /> </p>
 
