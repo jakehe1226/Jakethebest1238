@@ -4,7 +4,7 @@
 
 <h3 align="center">Inspirational developer with a particular focus on Personal Projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakethebest1238&label=Profile%20views&color=0e75b6&style=flat" alt="jakethebest1238" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehe1226&label=Profile%20views&color=0e75b6&style=flat" alt="jakehe1226" /> </p>
 
 You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 - 🤖 Currently working on Personal Projects only
@@ -34,15 +34,15 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakethebest1238&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jakethebest1238" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakehe1226&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jakehe1226" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakethebest1238&&theme=tokyonight&show_icons=true&locale=en" alt="jakethebest1238" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakehe1226&&theme=tokyonight&show_icons=true&locale=en" alt="jakehe1226" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakethebest1238&theme=tokyonight" alt="jakethebest1238" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakehe1226&theme=tokyonight" alt="jakehe1226" /></p>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakethebest1238&theme=onestar" alt="jakethebest1238" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakehe1226&theme=onestar" alt="jakehe1226" /></a> </p>
 
 ---
 
