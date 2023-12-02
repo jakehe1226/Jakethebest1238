@@ -44,6 +44,4 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakehe1226&theme=onestar" alt="jakehe1226" /></a> </p>
 
----
 
-Updated 30/01/2022, 30/05/2022, 01/07/2023
