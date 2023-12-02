@@ -14,7 +14,6 @@ You can find me creating content like gaming on [Jake He](https://www.youtube.co
 - 📫 [Personal Website](https://jakehe.is-a.dev)
 - ✔ [Discord Server](https://dsc.gg/jakesnation)
 - 👌 Use dark mode on Github
-- 👍 Live your life with Purpose
 
 ---
 
