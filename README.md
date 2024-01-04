@@ -6,14 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehe1226&label=Profile%20views&color=0e75b6&style=flat" alt="jakehe1226" /> </p>
 
-You can find me creating content like gaming on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 - 🤖 Currently working on Personal Projects only
 - 🙌 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 You can always ask me a question.
 - 📫 [Personal Website](https://jakehe.is-a.dev)
-- ✔ [Discord Server](https://dsc.gg/jakesnation)
-- 👌 Use dark mode on Github
+- 🎮 Content Creation on [Jake He](https://www.youtube.com/channel/UCOijWL8wT8zNisH4zCrcuCA).
 
 ---
 
